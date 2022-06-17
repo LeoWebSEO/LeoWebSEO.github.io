@@ -84,17 +84,11 @@ layout: default
 				</span>
 			</div>
 
-			<!-- Mailchimp Subscribe Form -->
-			<div class="AW-Form-1331616166"></div>
-				<script type="text/javascript">(function(d, s, id) {
-				    var js, fjs = d.getElementsByTagName(s)[0];
-				    if (d.getElementById(id)) return;
-				    js = d.createElement(s); js.id = id;
-				    js.src = "//forms.aweber.com/form/66/1331616166.js";
-				    fjs.parentNode.insertBefore(js, fjs);
-				    }(document, "script", "aweber-wjs-62zhq3xh2"));
-				</script>
-				
+			<!-- Msj de porque no comentarios-->
+			<span><b>CAJA DE COMENTARIOS:</b>
+				www.leopuentes.me no cuantifica ni monetiza al visitante. Sean muchos, sean pocos, no es de importancia esos detalles; de dónde vienen, dónde clickean o a dónde van. Lo que aquí se expone es para aprender, enseñar, compartir y crecer. En este sitio web prefiero sacrificar un sistema de comentarios en pro de la privacidad del visitante. Incorporar un sistemas de comentarios como 'Disqus' u otros suministra telemetría a terceros, es contrario a la privacidad y una falta de respeto al lector. Si desea realizar una donación siéntase libre de hacerlo, de lo contrario solo disfrute del contenido y por supuesto espero le sea de mucha utilidad.</br>✉ Siéntase libre de comentar, corregir o comunicar. Para ello puede dirigir un correo electrónico a <a href="mailto:leopolseo@gmail.com"> {{site.email}} </a>. Temprano o tarde, siempre respondo.
+				</span>
+							
 			<!-- Author Box -->
 			{% if page.author %}
 			<div class="row mt-5">
@@ -114,11 +108,6 @@ layout: default
 					{{ author.bio }}
 				</div>
 			</div>
-			{% endif %}
-
-			<!-- Comments -->
-			{% if page.comments != false %}
-			{% include comments.html %}
 			{% endif %}
 
 		</div>

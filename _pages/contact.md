@@ -1,18 +1,8 @@
 ---
-title: "Contact"
+title: "Formulario de Contacto"
 permalink: "/contact.html"
 ---
-
-<form action="https://formspree.io/{{site.email}}" method="POST">    
-<p class="mb-4">Please send your message to {{site.name}}. We will reply as soon as possible!</p>
-<div class="form-group row">
-<div class="col-md-6">
-<input class="form-control" type="text" name="name" placeholder="Name*" required>
-</div>
-<div class="col-md-6">
-<input class="form-control" type="email" name="_replyto" placeholder="E-mail Address*" required>
-</div>
-</div>
-<textarea rows="8" class="form-control mb-3" name="message" placeholder="Message*" required></textarea>    
-<input class="btn btn-success" type="submit" value="Send">
-</form>
+  
+<p class="mb-4">Por favor envíe su mensaje a {{site.name}}. Temprano o tarde, siempre respondo.!</p>
+<p class="mb-4">No se cuantifica ni monetiza al visitante. En este sitio web sacrifico sistemas de telemetria en pro de la privacidad del visitante. No se venden datos a terceros, es muy contrario a la privacidad y una falta de respeto al lector. El correo comentario@leopuentes.me es administrado y configurado en migadu.com.</p>
+<h2>Mi correo electrónico es <a href="mailto:leopolseo@gmail.com">{{site.email}}</a>. Puedes simplemente darle clic o digitarlo en tu bandeja de correo.</h2>
