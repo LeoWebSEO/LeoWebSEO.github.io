@@ -6,7 +6,7 @@ categories:
 title: 7 PRINCIPIOS DEL DINERO – EL HOMBRE MÁS RICO DE BABILONIA
 author: Leo
 image: "/assets/images/principios-del-dinero.webp"
-
+slug: principios-dinero-hombre-rico-babilonia
 ---
 El dinero se ha convertido en muchas comunidades en un tabú, ya sean comunidades religiosas, políticas, económicas, sociales o culturales. Y como es lógico, las creencias negativas dificultan la riqueza y las creencias positivas facilitan la riqueza.
 

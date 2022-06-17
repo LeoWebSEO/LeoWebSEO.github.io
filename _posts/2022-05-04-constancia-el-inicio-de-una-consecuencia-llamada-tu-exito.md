@@ -6,7 +6,7 @@ categories:
 title: Constancia, el inicio de una consecuencia llamada ¡Tú Éxito!
 author: Leo
 image: "/assets/images/consecuencia-llamda-exito.webp"
-
+slug: contancia-inicio-consecuencia-exito
 ---
 Éxito, una de las palabras más nombradas en el mundo del desarrollo personal y del emprendimiento. Lo sueñas y anhelas; ¡Éxito! Sientes esa sonrisa con plenitud interna al escucharla y pronunciarla. La constancia es el inicio de una consecuencia llamada ¡TU ÉXITO!
 

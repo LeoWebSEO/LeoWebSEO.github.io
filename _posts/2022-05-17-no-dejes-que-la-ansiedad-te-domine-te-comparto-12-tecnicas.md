@@ -6,7 +6,7 @@ categories:
 title: No dejes que la Ansiedad te domine. Te comparto 12 técnicas
 author: Leo
 image: "/assets/images/superar-ansiedad.webp"
-
+slug: dejar-ansiedad
 ---
 Con mucha frecuencia me relaciono con personas que sufren de ansiedad; resultado de diferentes situaciones vividas. Razón por la cual, quiero compartirte esta lectura con 12 técnicas para combatir la ansiedad y no permitir que te domine.
 
